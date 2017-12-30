@@ -1,2 +1,2 @@
 # TestGit
-Learning git
+This project is for Learning GitHub
